@@ -16,7 +16,7 @@ See https://dev.to/stuartcreed/using-laravel-sail-docker-composer-for-laravel-on
 This link will also help you if you have any other port conflicts.
 
 <u>Sources</u><br/>
-This is an improvement on: <br/>
+This is an adaptation of: <br/>
 https://dev.to/boussadjra/how-to-setup-vue-3-with-laravel-8-4ne6
 https://github.com/boussadjra/laravel-vue-3-starter/blob/main/webpack.mix.js
 
